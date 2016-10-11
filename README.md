@@ -4,3 +4,6 @@ It was made for the SummerCamp in [KidsCoding](http://kidscoding.com.mx/). The p
 code in HTML with no Editor installed in the PC and with the facility to store their files in the web.
 You can use this project for your personal or business projects. Just remember that you have to change the Server name in the variable "host" inside 
 the file **editor.php**.
+
+#Ace Editor
+The Editor used in the coding section of the **editor.php** is the [Ace Editor] (https://ace.c9.io/) wich is the best option for online editors because it supports multiple languages for programming.
